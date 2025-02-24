@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "./dist",
+    "target": "ES2019",
+    "useDefineForClassFields": true,
+    "lib": ["ESNext"],
+    "allowJs": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+  },
+  "exclude": ["node_modules", "dist", "**/__tests__/**"]
+}
