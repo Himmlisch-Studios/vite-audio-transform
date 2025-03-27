@@ -1,6 +1,6 @@
 {
   "name": "vite-audio-transform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ViteJS plugin to convert and compress all your audio files using FFmpeg",
   "main": "dist/index.js",
   "author": {
